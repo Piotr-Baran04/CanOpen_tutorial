@@ -1,0 +1,20 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache/build output
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+
+# Local environment files
+.env
+.env.*
+
+# IDE/editor files
+.idea/
+.vscode/
